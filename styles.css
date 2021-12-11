@@ -1,0 +1,19 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    /* background-color: lightgrey */
+  }
+  input {
+    padding: 1rem;
+    width: 80%;
+  }
+  .see {
+    color: black;
+  }
+  .background {
+    background-image: url("sun.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    opacity: 10;
+  }
+  
