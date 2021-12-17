@@ -2,9 +2,9 @@ import React, { useState } from "react";
 import "./styles.css";
 // var likeCounter = 0;
 var emojiDictionary = {
-  "🐕": "Dog",
-  "🐱": "Cat face",
-  "🦋": "Butterfly",
+  "🎅": "Santa Claus",
+  "😁": "Beaming Face with Smiling Eyes",
+  "🧁": "Cupcake",
   "🤭": "Face with Hand Over Mouth",
   "🥵": "HOt face",
   "🏝️": "Desert Island"
